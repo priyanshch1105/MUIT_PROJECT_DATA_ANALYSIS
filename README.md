@@ -26,13 +26,11 @@ Branch/Employee : Manager/Employee details of the concern bank.
 
 SOFTWARE REQUIREMENTS:
 
-• Operating system : Windows XP/7/10.
+• Language : Java
 
-• Language : Java ( Install JDK 8 version)
+• IDE :  Eclipse/intellij
 
-• IDE : Netbeans 8.2 / Eclipse
-
-• Database : MYSQL (Install XAMPP)
+• Database : MYSQL (Install workbench)
 
 Technologies used:
 
