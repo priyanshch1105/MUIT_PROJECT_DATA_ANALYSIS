@@ -1,4 +1,4 @@
-# MUIT_PROJECT_BANKING_MANAGNEMENT_SYSTEM
+# BANKING_MANAGNEMENT_SYSTEM
 Bank-Management-System
 This is a Bank Management System Database Project.
 
